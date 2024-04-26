@@ -1,5 +1,7 @@
 # [Akilesh Jayakumar 2024 GovTech GDS SWE Assessment](https://gds-swe-gcc-assessment1-app.vercel.app/)
 
+Here is the link to the [Live Site](https://gds-swe-gcc-assessment1-app.vercel.app/)!
+
 ## Key Features
 
 - **Modern SPA Framework**: Developed using [React.js](https://reactjs.org/), this application employs a component-based architecture.
@@ -30,16 +32,6 @@ To set up and run this project locally, follow these steps:
    ```
 5. **View in browser:**
    Open [http://localhost:3000](http://localhost:3000) to see the app in action.
-
-## Contributing
-
-Contributions to enhance the application or fix bugs are always welcome. If you're interested in contributing:
-
-1. Fork the repository.
-2. Create a new branch for your changes (`git checkout -b feature-branch`).
-3. Make your modifications and commit them (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
 
 ## Contact Information
 
