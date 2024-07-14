@@ -1,4 +1,4 @@
-# 2024 GovTech GDS SWE Assessment - Akilesh Jayakumar
+# GovTech 2024 GDS SWE Assessment1
 
 Here is the link to the live site: [https://gds-swe-gcc-assessment1-app.vercel.app/](https://gds-swe-gcc-assessment1-app.vercel.app/)
 
